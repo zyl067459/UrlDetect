@@ -17,20 +17,25 @@ if __name__ == '__main__':
     # w = WAF()
     # with open('lgs.pickle','wb') as output:
     #      pickle.dump(w,output)
+
+
     result1 = []
     result2 = []
-    with open('lgs.pickle', 'rb') as input:
+    with open('model/lgs.pickle', 'rb') as input:
         w = pickle.load(input)
-    with open('good_fromE.txt', 'r') as f1:
+    with open('good_test.txt', 'r') as f1:
         for i in range(0, 10):
             result1.append(f1.readline().strip())
 
-    with open('bad_fromE.txt', 'r', encoding='utf-8') as f2:
+    with open('bad_test.txt', 'r', encoding='utf-8') as f2:
         for i in range(0, 10):
             result2.append(f2.readline().strip())
 
     result = result2 + result1
-
+    y_pred = []
     w.predict(result)
+    # y_pred = w.predicty(result)
+    # print(y_pred)
+
 
 
